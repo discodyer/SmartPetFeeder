@@ -1,0 +1,10 @@
+{
+    "cmake.configureOnOpen": true,
+    "clangd.arguments": [
+        "--query-driver",
+        "C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/arm-none-eabi-g++",
+        "--compile-commands-dir=${workspaceFolder}/build/Debug"
+    ],
+    "editor.tabSize": 4,
+        "editor.insertSpaces":true,
+}
